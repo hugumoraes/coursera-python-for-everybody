@@ -1,10 +1,10 @@
-### Programming for Everybody (Getting Started with Python)
+# Programming for Everybody (Getting Started with Python)
 
-# Chapter 1
+### Chapter 1
 
 - Write a program that uses a print statement to say `hello world`
 
-# Chapter 2
+### Chapter 2
 
 - Write a program that uses input to prompt a user for their name and then welcomes them. Enter Sarah in the pop-up box when you are prompted so your output will match `Hello Sarah`
 
