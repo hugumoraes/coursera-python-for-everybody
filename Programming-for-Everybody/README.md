@@ -2,7 +2,7 @@
 
 # Chapter 1
 
-- Write a program that uses a print statement to say 'hello world'
+- Write a program that uses a print statement to say `hello world`
 
 # Chapter 2
 
